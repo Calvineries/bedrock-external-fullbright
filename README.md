@@ -1,6 +1,5 @@
 # Minecraft Bedrock External Fullbright
-A python script or an application compiled with PyInstaller,  
-that sets the game's brightness to a very high value.  
+A python script that sets the game's brightness to a very high value.  
 
 Works like any fullbright on Minecraft Java.  
 
